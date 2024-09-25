@@ -1,12 +1,16 @@
-## Hi there 👋
+## A propos de moi
+
+
+- 🔭 Je suis étudiant à Polytech Lille
+  
+- 🌱 J'apprends les statistiques, le machine learning et le développement.
+
+- 📫 Contactez-moi:
+    - linkedin : www.linkedin.com/in/bouvier-alexandre
+    - mail : alexandrebouvier6@gmail.com
+
 
 <!--
-**alebouvier/alebouvier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
