@@ -1,4 +1,5 @@
-Alexandre Bouvier
+# Alexandre Bouvier
+
 Final year engineering student in Computer science and Statistics.
 
 I'm interested in Statistical Learning, Probabilistic modeling and Machine Learning.
